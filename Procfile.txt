@@ -1,0 +1,1 @@
+web: gunicorn plotly-dash-chart-table: server
